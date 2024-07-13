@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
-(img align="right" alt="Coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3EWpCtHY6a6M3-xtjZ3YK5&ust=1720980493323000&source=images&cd=vfe&opi=89978">
+(img align="right" alt="Coding" width="400" src=" https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7473sk&label=Profile%20views&color=0e75b6&style=flat" alt="7473sk" /> </p>
 
